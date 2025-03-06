@@ -266,9 +266,10 @@ private void EvaluateRoles() {
 
 ## Related Examples
 
-* [Connect the DevExpress WinForms Data Grid to a .NET Core Service](https://github.com/DevExpress-Examples/connect-winforms-grid-to-dotnetcore-service)
-* [Connect the DevExpress WinForms Data Grid to a .NET Core Service and Enable Data Editing](https://github.com/DevExpress-Examples/connect-winforms-grid-to-dotnetcore-service-enable-editing)
-* [Connect the DevExpress WinForms Data Grid to a Backend using a Middle Tier Server (EF Core without OData)](https://github.com/DevExpress-Examples/connect-winforms-grid-to-backend-using-middletier-server)
+* [Connect a DevExpress WinForms Data Grid to a .NET Core Service](https://github.com/DevExpress-Examples/connect-winforms-grid-to-dotnetcore-service)
+* [Connect a DevExpress WinForms Data Grid to a .NET Core Service and Enable Data Editing](https://github.com/DevExpress-Examples/connect-winforms-grid-to-dotnetcore-service-enable-editing)
+* [Connect a DevExpress WinForms Data Grid to a Backend using a Middle Tier Server (EF Core without OData)](https://github.com/DevExpress-Examples/connect-winforms-grid-to-backend-using-middletier-server)
+* [Connect a WinForms Data Grid to an ASP.NET Core WebAPI Service Using EF Core — Authorization Code Flow](https://github.com/DevExpress-Examples/connect-winforms-grid-to-dotnetcore-service-enable-auth-code-flow)
 
 ## See Also
 
