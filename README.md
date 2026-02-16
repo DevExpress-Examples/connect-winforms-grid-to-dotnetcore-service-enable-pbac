@@ -278,7 +278,7 @@ private void EvaluateRoles() {
 * [Connect a WinForms Data Grid to an Arbitrary ASP.NET Core WebAPI Service Powered by EF Core — Authenticate Users and Protect Data (Part 3)](https://community.devexpress.com/blogs/news/archive/2024/10/08/connect-a-winforms-data-grid-to-an-arbitrary-asp-net-core-webapi-service-powered-by-ef-core-authenticate-users-and-protect-data.aspx)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=connect-winforms-grid-to-dotnetcore-service-enable-pbac&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=connect-winforms-grid-to-dotnetcore-service-enable-pbac&~~~was_helpful=no)
 
